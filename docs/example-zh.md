@@ -276,7 +276,7 @@ brook tproxy --link 'brook://...' --dnsListen :53
 
 **端口 9999, 8888, 5353 将会被使用**. 它与 brook server, brook wsserver, brook wssserver, brook quicserver 一起工作.
 
-1. 下載適合你系統的[ipk](https://github.com/txthinking/brook/releases)文件
+1. 下載適合你系統的[ipk](https://github.com/likev/brook/releases)文件
 2. 上傳並安裝: OpenWrt Web -> System -> Software -> Upload Package...
 3. 刷新頁面, 頂部菜單會出現 Brook 按鈕
 4. OpenWrt Web -> Brook -> 輸入後點擊 Connect

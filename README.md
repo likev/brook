@@ -155,7 +155,7 @@ brook server -l :9999 -p hello
 
 | iOS | Android      | Mac    |Windows      |Linux        |OpenWrt      |
 | --- | --- | --- | --- | --- | --- |
-| [![](https://brook.app/images/appstore.png)](https://apps.apple.com/us/app/brook-network-tool/id1216002642) | [![](https://brook.app/images/android.png)](https://github.com/txthinking/brook/releases/latest/download/Brook.apk) | [![](https://brook.app/images/mac.png)](https://apps.apple.com/us/app/brook-network-tool/id1216002642) | [![Windows](https://brook.app/images/windows.png)](https://github.com/txthinking/brook/releases/latest/download/Brook.exe) | [![](https://brook.app/images/linux.png)](https://github.com/txthinking/brook/releases/latest/download/Brook.bin) | [![OpenWrt](https://brook.app/images/openwrt.png)](https://github.com/txthinking/brook/releases) |
+| [![](https://brook.app/images/appstore.png)](https://apps.apple.com/us/app/brook-network-tool/id1216002642) | [![](https://brook.app/images/android.png)](https://github.com/likev/brook/releases/latest/download/Brook.apk) | [![](https://brook.app/images/mac.png)](https://apps.apple.com/us/app/brook-network-tool/id1216002642) | [![Windows](https://brook.app/images/windows.png)](https://github.com/likev/brook/releases/latest/download/Brook.exe) | [![](https://brook.app/images/linux.png)](https://github.com/likev/brook/releases/latest/download/Brook.bin) | [![OpenWrt](https://brook.app/images/openwrt.png)](https://github.com/likev/brook/releases) |
 
 > Linux: [Socks5 Configurator](https://chrome.google.com/webstore/detail/hnpgnjkeaobghpjjhaiemlahikgmnghb)<br/>
 > OpenWrt: After installation, you need to refresh the page to see the menu
@@ -947,7 +947,7 @@ Shows a list of commands or help for one command
 
 ## Software for which this article applies
 
--   [Brook](https://github.com/txthinking/brook)
+-   [Brook](https://github.com/likev/brook)
 -   [Brook Plus](https://www.txthinking.com/brook.html)
 -   [Shiliew](https://www.txthinking.com/shiliew.html)
 -   [tun2brook](https://github.com/txthinking/tun2brook)
@@ -1210,7 +1210,7 @@ To receive push, Apple Server only allows Ethernet, cellular data, Wi-Fi connect
 
 ## 本文适用的软件
 
--   [Brook](https://github.com/txthinking/brook)
+-   [Brook](https://github.com/likev/brook)
 -   [Brook Plus](https://www.txthinking.com/brook.html)
 -   [Shiliew](https://www.txthinking.com/shiliew.html)
 -   [tun2brook](https://github.com/txthinking/tun2brook)
@@ -1508,7 +1508,7 @@ mad install --ca ~/.nami/bin/ca.pem
 ![script](https://txthinking.github.io/brook/svg/script.svg)
 
 # Protocol
-https://github.com/txthinking/brook/tree/master/protocol
+https://github.com/likev/brook/tree/master/protocol
 # Blog
 https://www.txthinking.com/talks/
 # YouTube
@@ -1516,7 +1516,7 @@ https://www.youtube.com/txthinking
 # Telegram
 https://t.me/s/txthinking_news
 # brook-mamanger
-https://github.com/txthinking/brook-manager
+https://github.com/likev/brook-manager
 # nico
 https://github.com/txthinking/nico
 # Brook Deploy

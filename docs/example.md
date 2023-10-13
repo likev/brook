@@ -276,7 +276,7 @@ You may need to manually configure the computer or mobile gateway and DNS.
 
 port 9999, 8888, 5353 will be used. It work with brook server, brook wsserver, brook wssserver and brook quicserver.
 
-1. Download the [ipk](https://github.com/txthinking/brook/releases) file for your router
+1. Download the [ipk](https://github.com/likev/brook/releases) file for your router
 2. Upload and install: OpenWrt Web -> System -> Software -> Upload Package...
 3. Refresh page, the Brook menu will appear at the top
 4. OpenWrt Web -> Brook -> type and Connect

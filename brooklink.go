@@ -24,7 +24,7 @@ import (
 	"runtime"
 
 	utls "github.com/refraction-networking/utls"
-	"github.com/txthinking/brook/limits"
+	"github.com/likev/brook/limits"
 	crypto1 "github.com/txthinking/crypto"
 	"github.com/txthinking/socks5"
 )

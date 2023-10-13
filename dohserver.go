@@ -24,7 +24,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/miekg/dns"
-	"github.com/txthinking/brook/limits"
+	"github.com/likev/brook/limits"
 	"github.com/urfave/negroni"
 	"golang.org/x/crypto/acme/autocert"
 )

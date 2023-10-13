@@ -26,7 +26,7 @@ cat gui-zh.md >> ../readme.md
 cat diagram.md >> ../readme.md
 
 echo '# Protocol' >> ../readme.md
-echo 'https://github.com/txthinking/brook/tree/master/protocol' >> ../readme.md
+echo 'https://github.com/likev/brook/tree/master/protocol' >> ../readme.md
 echo '# Blog' >> ../readme.md
 echo 'https://www.txthinking.com/talks/' >> ../readme.md
 echo '# YouTube' >> ../readme.md
@@ -34,7 +34,7 @@ echo 'https://www.youtube.com/txthinking' >> ../readme.md
 echo '# Telegram' >> ../readme.md
 echo 'https://t.me/s/txthinking_news' >> ../readme.md
 echo '# brook-mamanger' >> ../readme.md
-echo 'https://github.com/txthinking/brook-manager' >> ../readme.md
+echo 'https://github.com/likev/brook-manager' >> ../readme.md
 echo '# nico' >> ../readme.md
 echo 'https://github.com/txthinking/nico' >> ../readme.md
 echo '# Brook Deploy' >> ../readme.md

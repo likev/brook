@@ -18,7 +18,7 @@ import (
 	"net"
 
 	cache "github.com/patrickmn/go-cache"
-	"github.com/txthinking/brook"
+	"github.com/likev/brook"
 )
 
 type Tproxy struct {

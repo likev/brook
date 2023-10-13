@@ -18,7 +18,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/txthinking/brook"
+	"github.com/likev/brook"
 	"github.com/txthinking/socks5"
 )
 

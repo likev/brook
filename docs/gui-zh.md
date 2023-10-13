@@ -5,7 +5,7 @@
 
 ## 本文适用的软件
 
--   [Brook](https://github.com/txthinking/brook)
+-   [Brook](https://github.com/likev/brook)
 -   [Brook Plus](https://www.txthinking.com/brook.html)
 -   [Shiliew](https://www.txthinking.com/shiliew.html)
 -   [tun2brook](https://github.com/txthinking/tun2brook)

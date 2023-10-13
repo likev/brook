@@ -22,8 +22,8 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/txthinking/brook/limits"
-	"github.com/txthinking/brook/tproxy"
+	"github.com/likev/brook/limits"
+	"github.com/likev/brook/tproxy"
 	"github.com/txthinking/runnergroup"
 	"github.com/txthinking/socks5"
 	"golang.org/x/sys/unix"

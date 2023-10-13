@@ -38,17 +38,17 @@ import (
 
 	"github.com/miekg/dns"
 	utls "github.com/refraction-networking/utls"
-	"github.com/txthinking/brook"
-	"github.com/txthinking/brook/plugins/block"
-	"github.com/txthinking/brook/plugins/dialwithdns"
-	"github.com/txthinking/brook/plugins/dialwithip"
-	"github.com/txthinking/brook/plugins/dialwithnic"
-	"github.com/txthinking/brook/plugins/logger"
-	"github.com/txthinking/brook/plugins/pprof"
-	"github.com/txthinking/brook/plugins/prometheus"
-	"github.com/txthinking/brook/plugins/socks5dial"
-	"github.com/txthinking/brook/plugins/thedns"
-	"github.com/txthinking/brook/plugins/tproxy"
+	"github.com/likev/brook"
+	"github.com/likev/brook/plugins/block"
+	"github.com/likev/brook/plugins/dialwithdns"
+	"github.com/likev/brook/plugins/dialwithip"
+	"github.com/likev/brook/plugins/dialwithnic"
+	"github.com/likev/brook/plugins/logger"
+	"github.com/likev/brook/plugins/pprof"
+	"github.com/likev/brook/plugins/prometheus"
+	"github.com/likev/brook/plugins/socks5dial"
+	"github.com/likev/brook/plugins/thedns"
+	"github.com/likev/brook/plugins/tproxy"
 	"github.com/txthinking/runnergroup"
 	"github.com/txthinking/socks5"
 	"github.com/urfave/cli/v2"
@@ -67,7 +67,7 @@ func main() {
 			Email: "cloud@txthinking.com",
 		},
 	}
-	app.Copyright = "https://github.com/txthinking/brook"
+	app.Copyright = "https://github.com/likev/brook"
 	app.EnableBashCompletion = true
 	app.Flags = []cli.Flag{
 		&cli.StringFlag{

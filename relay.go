@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/miekg/dns"
-	"github.com/txthinking/brook/limits"
+	"github.com/likev/brook/limits"
 	"github.com/txthinking/runnergroup"
 	"github.com/txthinking/socks5"
 )

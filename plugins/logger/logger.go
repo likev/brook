@@ -25,7 +25,7 @@ import (
 
 	"github.com/krolaw/dhcp4"
 	"github.com/miekg/dns"
-	"github.com/txthinking/brook"
+	"github.com/likev/brook"
 )
 
 type Logger struct {

@@ -20,7 +20,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/txthinking/brook/limits"
+	"github.com/likev/brook/limits"
 	"golang.org/x/net/proxy"
 )
 

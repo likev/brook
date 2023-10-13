@@ -128,5 +128,5 @@ then
     exit
 fi
 
-nami release github.com/txthinking/brook $1 _
+nami release github.com/likev/brook $1 _
 rm -rf _

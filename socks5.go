@@ -15,7 +15,7 @@
 package brook
 
 import (
-	"github.com/txthinking/brook/limits"
+	"github.com/likev/brook/limits"
 	"github.com/txthinking/socks5"
 )
 

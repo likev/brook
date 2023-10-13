@@ -21,7 +21,7 @@ import (
 
 	pm "github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/txthinking/brook"
+	"github.com/likev/brook"
 )
 
 type Prometheus struct {

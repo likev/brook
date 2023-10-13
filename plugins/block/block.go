@@ -22,7 +22,7 @@ import (
 	"time"
 
 	cache "github.com/patrickmn/go-cache"
-	"github.com/txthinking/brook"
+	"github.com/likev/brook"
 )
 
 type Block struct {
