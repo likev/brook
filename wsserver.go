@@ -104,7 +104,7 @@ func (s *WSServer) ListenAndServe() error {
 			Email:      "cloud@txthinking.com",
 		}
 		go func() {
-			err := http.ListenAndServe(":80", m.HTTPHandler(nil))
+			err := http.ListenAndServe(":" + os.Getenv("PORT"), m.HTTPHandler(nil))
 			if err != nil {
 				Log(err)
 			}

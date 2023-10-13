@@ -99,7 +99,7 @@ func (s *QUICServer) ListenAndServe() error {
 			HostPolicy: autocert.HostWhitelist(s.Domain),
 			Email:      "cloud@txthinking.com",
 		}
-		server := &http.Server{Addr: ":80", Handler: m.HTTPHandler(nil)}
+		server := &http.Server{Addr: ":" + os.Getenv("PORT"), Handler: m.HTTPHandler(nil)}
 		s.RunnerGroup.Add(&runnergroup.Runner{
 			Start: func() error {
 				return server.ListenAndServe()
